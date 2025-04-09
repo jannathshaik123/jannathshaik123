@@ -5,7 +5,7 @@
 
 🔍 **Currently learning:** Streamlit, Web Scraping & how to survive on caffeine and debug at 2 AM ☕
 
-💡 **Projects:** Recommender Systems, Machine Learning models & Web Apps that (hopefully) work on the first run 🤞  
+💡 **Projects:** Recommender Systems, Machine Learning models & Web Apps that (hopefully) work on the first run   
 🛠 **Skills:** Python, Java, SQL, Pandas, Scikit-learn, TensorFlow, OpenCV, JavaScript, HTML/CSS  
 💬 **Ask me about:** Python, AI, Web Dev & why bugs always appear right before a deadline.  
 
