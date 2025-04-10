@@ -1,6 +1,6 @@
 # 🚀 **Welcome to My GitHub!**  
----
 
+---
 👋 **Hey there!** I'm **Jannath Shaik**, a tech enthusiast juggling **AI, Data Science, Software Development, and Web Dev**—because why pick just one? 
 
 🔍 **Currently learning:** Streamlit, Web Scraping & how to survive on caffeine and debug at 2 AM
@@ -21,7 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jannathshaik123&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jannathshaik123&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jannathshaik123&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
